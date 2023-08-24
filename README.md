@@ -14,5 +14,5 @@ This project contains the main codes in the form of .ipynb and the original and 
 8. validation of model efficiency
 
 ## Introduction:
-Test the methodology of the selected research paper [Paper link](https://arxiv.org/pdf/2106.09460.pdf) on new datasets to evaluate
+Test the methodology of the selected research paper ([Paper link](https://arxiv.org/pdf/2106.09460.pdf)) on new datasets to evaluate
 its effectiveness in different contexts.

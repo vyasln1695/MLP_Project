@@ -13,3 +13,9 @@ This project contains the main codes in the form of .ipynb and the original and 
 7. Run the parent codes with modifications
 8. validation of model efficiency
 
+## Introduction:
+Test the methodology of the selected research paper [Paper link](https://arxiv.org/pdf/2106.09460.pdf) on new datasets to evaluate
+its effectiveness in different contexts.
+2. youshouldexperimentwithchangingsomeofthemodelparameterstocreateanupgradedversion
+of the existing methodology. This will allow you to explore the impact of different parameter
+values on the model’s performance.

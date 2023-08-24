@@ -4,4 +4,12 @@ MLP Project made by Akshay Ashok Netalkar and Bharath Vyas Lakshmi Narayanan
 This project contains the main codes in the form of .ipynb and the original and new data used in the project.
 
 ## Table of contents:
-* Introduction:*
+1. Introduction
+2. Steps involved
+3. Installation of necessary packages
+4. Read the original data
+5. Run the parent codes
+6. Merging the data (New data)
+7. Run the parent codes with modifications
+8. validation of model efficiency
+
